@@ -1,0 +1,1 @@
+# -Emotion-Specific-Patterns-in-Frontal-Parietal-EEG-Activity-A-Case-Study
