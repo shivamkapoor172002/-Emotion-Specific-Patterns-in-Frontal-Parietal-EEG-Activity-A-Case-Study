@@ -1,4 +1,6 @@
 # Emotion-Specific Patterns in Frontal-Parietal EEG Activity: A Case Study
+![image](https://github.com/user-attachments/assets/c4c91895-33f6-4a1a-9dae-4f66c3282fe8)
+
 
 This repository contains code, data, and documentation for the paper titled **"Emotion-Specific Patterns in Frontal-Parietal EEG Activity: A Case Study"**, published in Volume 14 Issue 2, April 2024 of the International Journal of Current Science (IJCSPUB).
 ![0to250sec](https://github.com/user-attachments/assets/577d1553-f476-4154-8281-183dae42cf27)
